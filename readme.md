@@ -1,4 +1,4 @@
-# misskey_ follow import
+# misskey follow import
 ## about this
 API使ってMisskeyのフォローインポートできるやつ。    
 フォローインポートが正常に機能しないインスタンスの住民に向けて。
